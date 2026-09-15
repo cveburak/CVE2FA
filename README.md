@@ -9,7 +9,7 @@ Built with Go and Vue 3 — a privacy-friendly alternative to Authy, Google Auth
 [![Vue 3](https://img.shields.io/badge/Vue-3-42b883?logo=vuedotjs)](https://vuejs.org/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite)](https://www.sqlite.org/)
 [![Self Hosted](https://img.shields.io/badge/Local--First-Yes-success)](#)
-[![License](https://img.shields.io/badge/License-Unspecified-lightgrey)](#license)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
 
@@ -99,7 +99,7 @@ Issues and pull requests are welcome. If you run into a bug or have a feature re
 
 ## 📄 License
 
-No license file has been added to this repository yet — until one is added, all rights are reserved by default. Add a `LICENSE` file (e.g. MIT, Apache-2.0) to make reuse terms explicit.
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and distribute, with attribution.
 
 ---
 
